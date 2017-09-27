@@ -1,0 +1,7 @@
+how to use
+
+1. driver install are included in ise design suit
+2. the device manager read it as Xilinx USB Cable
+3. by software able to connenct to cable by ChipScope Pro Analyzer
+4. you can send blinky command to USB jtag by that software
+5. to connect to fpga, power up fpga beforehand so jtag can read it with green LED as status ok. red is NG
